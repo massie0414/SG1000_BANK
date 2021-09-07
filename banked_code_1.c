@@ -1,6 +1,4 @@
 #include "SGlib.h"
-#include "PSGlib.h"
-#include "banked_code_1.h"
 
 #define	tile_data_size 8
 const unsigned char tile_data[] = {
