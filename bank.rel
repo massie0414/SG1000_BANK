@@ -1,0 +1,104 @@
+XL3
+H 9 areas 29 global symbols
+M bank
+O -mz80
+S _some_function17 Ref000000
+S _some_function26 Ref000000
+S _some_function18 Ref000000
+S _some_function27 Ref000000
+S _some_function19 Ref000000
+S _some_function28 Ref000000
+S _some_function29 Ref000000
+S _SG_copySpritestoSAT Ref000000
+S _some_function1 Ref000000
+S _some_function2 Ref000000
+S _some_function3 Ref000000
+S _some_function4 Ref000000
+S _some_function5 Ref000000
+S _some_function6 Ref000000
+S _some_function7 Ref000000
+S _some_function8 Ref000000
+S _some_function9 Ref000000
+S _SG_VDPturnOnFeature Ref000000
+S _SG_finalizeSprites Ref000000
+S .__.ABS. Def000000
+S _SG_setSpriteMode Ref000000
+S _SG_getKeysHeld Ref000000
+S _SG_waitForVBlank Ref000000
+S _SG_initSprites Ref000000
+S _SG_addSprite Ref000000
+S _some_function10 Ref000000
+S _some_function11 Ref000000
+S _some_function20 Ref000000
+S _some_function12 Ref000000
+S _some_function21 Ref000000
+S _some_function30 Ref000000
+S _some_function13 Ref000000
+S _some_function22 Ref000000
+S _some_function31 Ref000000
+S _some_function14 Ref000000
+S _some_function23 Ref000000
+S _some_function15 Ref000000
+S _some_function24 Ref000000
+S _some_function16 Ref000000
+S _some_function25 Ref000000
+A _CODE size BD flags 0 addr 0
+S _main Def000000
+A _DATA size 0 flags 0 addr 0
+A _INITIALIZED size 0 flags 0 addr 0
+A _DABS size 0 flags 8 addr 0
+A _HOME size 0 flags 0 addr 0
+A _GSINIT size 0 flags 0 addr 0
+A _GSFINAL size 0 flags 0 addr 0
+A _INITIALIZER size 0 flags 0 addr 0
+A _CABS size 0 flags 8 addr 0
+T 00 00 00
+R 00 00 00 00
+T 00 00 00 3E 01 F5 33 CD 00 00 33 CD 00 00 CD
+R 00 00 00 00 02 08 14 00 02 0C 08 00
+T 0C 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 09 00 02 06 0A 00 02 09 0B 00
+T 15 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 0C 00 02 06 0D 00 02 09 0E 00
+T 1E 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 0F 00 02 06 10 00 02 09 19 00
+T 27 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 1A 00 02 06 1C 00 02 09 1F 00
+T 30 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 22 00 02 06 24 00 02 09 26 00
+T 39 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 00 00 02 06 02 00 02 09 04 00
+T 42 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 1B 00 02 06 1D 00 02 09 20 00
+T 4B 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 23 00 02 06 25 00 02 09 27 00
+T 54 00 00 00 00 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 01 00 02 06 03 00 02 09 05 00
+T 5D 00 00 00 00 CD 00 00 CD 00 00 01 0A 0A C5 21
+R 00 00 00 00 02 03 06 00 02 06 1E 00 02 09 21 00
+T 6A 00 00 40 01 E5 CD 00 00 F1 C1
+R 00 00 00 00 02 07 11 00
+T 72 00 00
+R 00 00 00 00
+T 72 00 00 C5 CD 00 00 C1 7D 3D B4 20 01 05
+R 00 00 00 00 02 05 15 00
+T 7D 00 00
+R 00 00 00 00
+T 7D 00 00 C5 CD 00 00 C1 7D D6 02 B4 20 01 04
+R 00 00 00 00 02 05 15 00
+T 89 00 00
+R 00 00 00 00
+T 89 00 00 C5 CD 00 00 C1 7D D6 04 B4 20 01 0D
+R 00 00 00 00 02 05 15 00
+T 95 00 00
+R 00 00 00 00
+T 95 00 00 C5 CD 00 00 C1 7D D6 08 B4 20 01 0C
+R 00 00 00 00 02 05 15 00
+T A1 00 00
+R 00 00 00 00
+T A1 00 00 C5 CD 00 00 C1 C5 21 00 0A E5 C5 CD
+R 00 00 00 00 02 05 17 00
+T AD 00 00 00 00 F1 F1 CD 00 00 CD 00 00 CD
+R 00 00 00 00 02 03 18 00 02 08 12 00 02 0B 07 00
+T B8 00 00 00 00 C1 18 B5
+R 00 00 00 00 02 03 16 00
